@@ -4,7 +4,7 @@
 - Video: Youtube
 
 ## Prerequisite:
-- Need testnet gas on (op_sepolia, arb_sepolia, base_sepolia, blast_sepolia)
+- Need testnet gas on (op_sepolia, arb_sepolia, base_sepolia, blast_sepolia): https://testnetbridge.com/sepolia
 - Need testnet brn (atleast 10)
 
 ```bash
