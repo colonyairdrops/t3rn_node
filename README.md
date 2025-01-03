@@ -5,6 +5,7 @@
 
 ## Prerequisite:
 - Need testnet gas on (op_sepolia, arb_sepolia, base_sepolia, blast_sepolia): https://testnetbridge.com/sepolia
+- Bridge: https://testnets.relay.link/
 - Need testnet brn (atleast 10)
 
 ```bash
