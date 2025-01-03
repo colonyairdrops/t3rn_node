@@ -26,7 +26,7 @@ screen -S t3rn
 wget https://github.com/t3rn/executor-release/releases/download/v0.32.0/executor-linux-v0.32.0.tar.gz
 ```
 ```bash
-tar -xvzf executor-linux-v0.31.0.tar.gz
+tar -xvzf executor-linux-v0.32.0.tar.gz
 ```
 
 ## Configure Settings and Environment
