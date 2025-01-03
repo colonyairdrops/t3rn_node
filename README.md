@@ -66,6 +66,13 @@ export EXECUTOR_MAX_L3_GAS_PRICE=200
 ./executor
 ```
 
+## Screen Commands
+- "Ctrl A D" to detach from screem
+- To go back to screen use
+```bash
+screen -r t3rn
+```
+
 ## Check Executor Status
 Executor status: https://bridge.t1rn.io/explorer/executors
 
